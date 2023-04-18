@@ -57,6 +57,12 @@ Padrões de projetos abordados em cada tipo:
 
 ***
 
+## Curso
+
+<a href="https://www.udemy.com/share/1049ty3@ot4TbT8wwN4EIhTsd4x-icQpAcqMPPO7lLbG9SLo6ltGDuSLOjo4d-x2qjiwAkd3sw==/">LINK DO CURSO</a>
+
+***
+
 ## Status
 
 :construction: **EM ANDAMENTO** :construction:
