@@ -13,7 +13,7 @@ Neste repositório é apresentado os exercícios de fixação de cada padrão de
 * Estruturais.
 * Comportamentais
 
-Em cada tipo é apresentado alguns padrões de projetos que o respectivo tipo abrange e cada padrão será um projeto diferente, apresentando um README explicando o objetivo da quele padrão.
+Em cada tipo é apresentado alguns padrões de projetos que o respectivo tipo abrange, sendo que cada um deles será um projeto diferente, apresentando um README explicando o objetivo daquele padrão.
 
 ***
 
