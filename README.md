@@ -20,7 +20,7 @@ Em cada tipo é apresentado alguns padrões de projetos que o respectivo tipo ab
 ## Tecnologias
 
 * IDE Intellij Community Edition
-* Maven
+* Java 17
 * Git
 
 ***
