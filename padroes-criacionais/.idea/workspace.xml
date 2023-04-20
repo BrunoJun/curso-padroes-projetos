@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7555d3da-0c6a-4083-8c66-7e155760c8a0" name="Changes" comment="" />
+    <list default="true" id="7555d3da-0c6a-4083-8c66-7e155760c8a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\abstractFactory" />
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\factory_method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.factory_method.exemplo2.app.dbadapter.Client">
+  <component name="RunManager" selected="Application.abstractFactory.exemplo1.app.service.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory_method.exemplo1.apple.Client" />
       <module name="padroes-criacionais" />
@@ -63,6 +66,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="abstractFactory.exemplo1.app.service.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractFactory.exemplo1.app.service.Client" />
+      <module name="padroes-criacionais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractFactory.exemplo1.app.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abstractFactory.exemplo2.apple.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractFactory.exemplo2.apple.Client" />
+      <module name="padroes-criacionais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractFactory.exemplo2.apple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="factory_method.exemplo2.app.dbadapter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory_method.exemplo2.app.dbadapter.Client" />
       <module name="padroes-criacionais" />
@@ -78,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.abstractFactory.exemplo1.app.service.Client" />
+        <item itemvalue="Application.abstractFactory.exemplo2.apple.Client" />
         <item itemvalue="Application.factory_method.exemplo2.app.dbadapter.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main" />
