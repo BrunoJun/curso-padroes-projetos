@@ -33,19 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Jun/Documents/Cursos_geral/Curso de padrões de projetos/Práticas/padroes-criacionais/src/singleton"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\singleton" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\abstractFactory" />
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\factory_method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.abstractFactory.exemplo1.app.service.Client">
+  <component name="RunManager" selected="Application.singleton.exemplo1.connectionPool.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory_method.exemplo1.apple.Client" />
       <module name="padroes-criacionais" />
@@ -55,13 +59,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="padroes-criacionais" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="singleton.exemplo1.connectionPool.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.exemplo1.connectionPool.Client" />
+      <module name="padroes-criacionais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.exemplo1.connectionPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.singleton.exemplo1.connectionPool.Client" />
         <item itemvalue="Application.abstractFactory.exemplo1.app.service.Client" />
         <item itemvalue="Application.abstractFactory.exemplo2.apple.Client" />
         <item itemvalue="Application.factory_method.exemplo2.app.dbadapter.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
