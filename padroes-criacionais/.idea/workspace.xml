@@ -33,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Jun/Documents/Cursos_geral/Curso de padrões de projetos/Práticas/padroes-criacionais/src/singleton"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jun/Documents/Cursos_geral/Curso de padrões de projetos/Práticas/padroes-criacionais/src/singleton&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\singleton" />
@@ -48,14 +48,17 @@
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\abstractFactory" />
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\factory_method" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="builder.exemplo1.meal.builder" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.singleton.exemplo1.connectionPool.Client">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory_method.exemplo1.apple.Client" />
+      <option name="MAIN_CLASS_NAME" value="builder.exemplo2.player.Client" />
       <module name="padroes-criacionais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory_method.exemplo1.apple.*" />
+          <option name="PATTERN" value="builder.exemplo2.player.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factory_method.exemplo2.app.dbadapter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory_method.exemplo2.app.dbadapter.Client" />
+    <configuration name="builder.exemplo1.meal.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.exemplo1.meal.Client" />
       <module name="padroes-criacionais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory_method.exemplo2.app.dbadapter.*" />
+          <option name="PATTERN" value="builder.exemplo1.meal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.builder.exemplo1.meal.Client" />
         <item itemvalue="Application.singleton.exemplo1.connectionPool.Client" />
         <item itemvalue="Application.abstractFactory.exemplo1.app.service.Client" />
         <item itemvalue="Application.abstractFactory.exemplo2.apple.Client" />
-        <item itemvalue="Application.factory_method.exemplo2.app.dbadapter.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
