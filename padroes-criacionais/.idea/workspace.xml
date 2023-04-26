@@ -33,15 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jun/Documents/Cursos_geral/Curso de padrões de projetos/Práticas/padroes-criacionais/src/singleton&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Jun/Documents/Cursos_geral/Curso de padrões de projetos/Práticas/padroes-criacionais/src/prototype"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\prototype" />
       <recent name="C:\Users\Jun\Documents\Cursos_geral\Curso de padrões de projetos\Práticas\padroes-criacionais\src\singleton" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -52,7 +53,7 @@
       <recent name="builder.exemplo1.meal.builder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.prototype.exemplo2.deepCopy.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder.exemplo2.player.Client" />
       <module name="padroes-criacionais" />
@@ -66,38 +67,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstractFactory.exemplo1.app.service.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstractFactory.exemplo1.app.service.Client" />
-      <module name="padroes-criacionais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstractFactory.exemplo1.app.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="abstractFactory.exemplo2.apple.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstractFactory.exemplo2.apple.Client" />
-      <module name="padroes-criacionais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstractFactory.exemplo2.apple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="builder.exemplo1.meal.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder.exemplo1.meal.Client" />
       <module name="padroes-criacionais" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builder.exemplo1.meal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prototype.exemplo1.animation.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prototype.exemplo1.animation.Client" />
+      <module name="padroes-criacionais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prototype.exemplo1.animation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prototype.exemplo2.deepCopy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prototype.exemplo2.deepCopy.Client" />
+      <module name="padroes-criacionais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prototype.exemplo2.deepCopy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prototype.exemplo2.deepCopy.Client" />
+        <item itemvalue="Application.prototype.exemplo1.animation.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.builder.exemplo1.meal.Client" />
         <item itemvalue="Application.singleton.exemplo1.connectionPool.Client" />
-        <item itemvalue="Application.abstractFactory.exemplo1.app.service.Client" />
-        <item itemvalue="Application.abstractFactory.exemplo2.apple.Client" />
       </list>
     </recent_temporary>
   </component>
