@@ -65,7 +65,7 @@ Padrões de projetos abordados em cada tipo:
 
 ## Status
 
-:construction: **EM ANDAMENTO** :construction:
+:white_check_mark: **FINALIZADO** :white_check_mark:
 
 ***
 
